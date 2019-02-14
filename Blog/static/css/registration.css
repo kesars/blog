@@ -1,0 +1,31 @@
+
+.imgcontainer {
+	text-align: center;
+  }
+  
+  img .dp {
+	width: 20%;
+	border-radius: 50%;
+  }
+
+.container {
+	padding: 50px;
+  }
+  body {
+	font-family: sans-serif;
+  }
+  h2{
+	text-align: center;
+	size:32px;
+	 font-weight:bold;
+  }
+  input[type=text], input[type=password], input[type=email], input[type=tel], input[type=file] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+  	font-size:16px;
+  }
+  
